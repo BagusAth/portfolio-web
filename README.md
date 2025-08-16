@@ -50,7 +50,7 @@ To run this project on your local machine, follow these simple steps:
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd your-repository-name
+    cd portfolio-web
     ```
 3.  **Open the website:**
     Simply open the `index.html` file in your favorite web browser. No special servers or dependencies are required.
