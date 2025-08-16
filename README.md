@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-This is a responsive personal portfolio website designed to showcase my projects, skills, and professional journey as an AI/ML enthusiast.
+This is a responsive personal portfolio website designed to showcase my projects, skills, and professional journey.
 
 
 
